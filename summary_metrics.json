@@ -1,0 +1,20 @@
+{
+  "raw_rows": 97929,
+  "raw_columns": 17,
+  "duplicate_job_ids_removed": 250,
+  "clean_rows": 97679,
+  "salary_disclosed_inr_jobs": 33116,
+  "salary_disclosed_share_of_clean_rows_pct": 33.9,
+  "skills_missing_rows_raw": 571,
+  "experience_missing_rows_raw": 2105,
+  "reviews_missing_pct": 36.0,
+  "ratings_missing_pct": 36.0,
+  "median_salary_lpa_inr": 4.25,
+  "top_job_title": "Application Developer",
+  "top_job_title_count": 2033,
+  "top_location_label": "Bengaluru",
+  "top_location_count": 16783,
+  "top_skill": "sales",
+  "top_skill_count": 9178,
+  "non_inr_rows": 129
+}
